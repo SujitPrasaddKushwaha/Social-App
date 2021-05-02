@@ -28,6 +28,8 @@ class CreatePost_Activity : AppCompatActivity() {
                 Toast.makeText(this, "Post Successful", Toast.LENGTH_SHORT).show()
                 finish()
             }
+
+
         }
 
     }
